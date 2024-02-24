@@ -1,2 +1,2 @@
 #hellur
-print("mhmm!!")
+print("mhmm")
